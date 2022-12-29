@@ -1,0 +1,53 @@
+*{
+	padding: auto;
+	margin:auto;
+}
+html{
+	background-color: rgb(64, 20, 20);
+}
+
+body {
+	width: 80%;
+	max-width: 1024px;
+	margin: 0 auto;
+}
+
+.container-padding50 {
+	padding-top: 25px; 
+	
+	
+}
+
+.container-textinput {
+	width: 80%;
+	display: inline-block;
+	padding: 20px;
+	font-size: 16px;
+	font-family: Helvetica, sans-serif;
+	background-color: black;
+	color: aliceblue;
+}
+
+.container-button {
+	width: 10%;
+	display: inline-block;
+	padding: 20px;
+	background-color: rgb(69, 40, 40);
+	color: rgb(255, 245, 245);
+	font-size: 16px;
+	font-family: Helvetica, sans-serif;
+
+	border: 1px solid rgb(182, 126, 126);
+	border-radius: 10%;
+}
+
+.container-image {
+	width: 30%;
+	display: block;
+	float: left;
+	margin-right:3%;
+}
+h1{
+	color: rgb(215, 173, 173);
+	font-family: Helvetica, sans-serif;
+}
