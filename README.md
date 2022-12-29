@@ -1,1 +1,2 @@
-GIPhy search API & Ajax
+A Mini Project -  ON THE THINGS I LEARNT IN JAVASCRIPT!
+GIFs SEARCH ENGINE - using AJAX & GIPHY API
